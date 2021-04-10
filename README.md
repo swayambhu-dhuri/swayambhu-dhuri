@@ -74,11 +74,10 @@ To be a reputed and trustworthy resource to an organisation</p>
 <br/>
 
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Youtube
-- 📫 How to reach me = {
+- 📫 How to reach me : [
 				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), 
 				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/),
 				Gmail : swayambhu43@gmail.com
-			}
+			]
 - 😄 Pronouns: He/His
 
