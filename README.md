@@ -37,7 +37,6 @@ To be a reputed and trustworthy resource to an organisation</p>
 
 ---
 
-    enter code here
     document.write("Hello World");
     let status =
     {
@@ -67,10 +66,12 @@ To be a reputed and trustworthy resource to an organisation</p>
 
   
 ---
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=swayambhu&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=swayambhu&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 </details>
-
+<br/>
+<br/>
+<br/>
 
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Youtube
