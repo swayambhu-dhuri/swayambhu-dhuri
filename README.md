@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola, I'm Swayambhu Dhuri!</h1>
-<img src="https://github.com/vimaleurakaa/vimaleurakaa/raw/main/dev.gif" align="center" width="200" height="150" />
+<img src="https://github.com/vimaleurakaa/vimaleurakaa/raw/main/dev.gif" align="right" width="200" height="150" />
 
 <p align="right">Connect with me: 
 
