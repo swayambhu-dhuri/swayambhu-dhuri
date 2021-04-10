@@ -1,5 +1,8 @@
 
-<h1 align="center">Hola, I'm Swayambhu Dhuri!</h1>
+<h2 align="center">Hola 👋, I'm Swayambhu Dhuri!</h2>
+
+<p align="center">Fast Learner and Implementer! Have an unsatisfying hunger for knowledge.
+To be a reputed and trustworthy resource to an organisation</p>
 <br/>
 <p align="center">
 <br><a target="_blank" rel="noopener noreferrer" href="https://github.com/vimaleurakaa/vimaleurakaa/blob/main/dev.gif"><img src="https://github.com/vimaleurakaa/vimaleurakaa/raw/main/dev.gif" width="280px" style="max-width:100%;"></a><br><br>
