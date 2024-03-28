@@ -77,7 +77,8 @@ To be a reputed and trustworthy resource to an organisation</p>
 - 📫 How to reach me : [
 				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), 
 				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/),
-				Gmail : swayambhu43@gmail.com
+				Gmail : swayambhu.jobs@gmail.com
+				Portfolio: [@swayambhu.site](https://swayambhu.site/)
 			]
 - 😄 Pronouns: He/His
 
