@@ -46,10 +46,10 @@ To be a reputed and trustworthy resource to an organisation</p>
 	}
 	const skills =
 	{
-		languages :[Java, Python, C, C++, HTML, CSS, JavaScript, PHP, .Net, PL/SQL, VB],
+		languages :[Java, Python, C, C++, HTML, CSS, JavaScript, TypeScript, PHP, .Net, PL/SQL, VB],
 	    ide       :[Vs Code, Eclipse,  Visual Studio, Sublime, Notepad++],
 	    libraries :[Jquery,  SlickJS],
-	    frameworks:[React Js, Node Js, Bootstrap],
+	    frameworks:[React Js, Node Js, Bootstrap, Next Js, Material UI, Tailwind CSS],
 	    databases :[Firebase, MongoDB],
 	    platforms :[Firebase,  Amazon Web Services,Github Pages, Netlify,  Vercel],
 	}
@@ -75,10 +75,11 @@ To be a reputed and trustworthy resource to an organisation</p>
 
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me : [
+  				Portfolio: [@swayambhu.site](https://swayambhu.site/),
 				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), 
 				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/),
-				Gmail : swayambhu.jobs@gmail.com
-				Portfolio: [@swayambhu.site](https://swayambhu.site/)
+				Gmail : [swayambhu.jobs@gmail.com] (mailto:swayambhu.jobs@gmail.com)
+				
 			]
 - 😄 Pronouns: He/His
 
