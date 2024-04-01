@@ -75,10 +75,10 @@ To be a reputed and trustworthy resource to an organisation</p>
 
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me : [
-  				Portfolio: [@swayambhu.site](https://swayambhu.site/),
+  				Portfolio: [swayambhu.site](https://swayambhu.site/),
 				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), 
 				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/),
-				Gmail : [swayambhu.jobs@gmail.com] (mailto:swayambhu.jobs@gmail.com)
+				Gmail : [swayambhu.jobs@gmail.com](mailto:swayambhu.jobs@gmail.com)
 				
 			]
 - 😄 Pronouns: He/His
