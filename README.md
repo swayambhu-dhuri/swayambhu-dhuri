@@ -79,7 +79,6 @@ To be a reputed and trustworthy resource to an organisation</p>
 				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), 
 				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/),
 				Gmail : [swayambhu.jobs@gmail.com](mailto:swayambhu.jobs@gmail.com)
-				
 			]
 - 😄 Pronouns: He/His
 
