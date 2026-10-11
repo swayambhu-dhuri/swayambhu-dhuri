@@ -10,9 +10,7 @@ To be a reputed and trustworthy resource to an organisation</p>
 <br/>
 <p align="right">Connect with me: 
 
-[<img align="right" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/swayambhudhuri)
 [<img align="right" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/swayambhu-dhuri-09130216b/)
-[<img align="right" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/swayam____0809/)
 
 <br />
 
