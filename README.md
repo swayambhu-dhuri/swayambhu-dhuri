@@ -75,8 +75,6 @@ To be a reputed and trustworthy resource to an organisation</p>
 - 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me : [ <br/>
   				Portfolio: [website](https://portfolio-cgom.vercel.app/), <br/>
-				Twitter  : [@swayambhudhuri](https://twitter.com/swayambhudhuri), <br/>
-				Instagram : [@swayam____0809](https://www.instagram.com/swayam____0809/), <br/>
 				Gmail : [swayambhu.jobs@gmail.com](mailto:swayambhu.jobs@gmail.com) <br/>
 			]
 - 😄 Pronouns: He/His
